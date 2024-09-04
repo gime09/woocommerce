@@ -80,5 +80,7 @@ By default, it uses a combination of black and white borders and shadows so it h
 
 ![Order summary screenshot with custom styles for the item quantity badge](https://user-images.githubusercontent.com/3616980/83863109-2e421c80-a723-11ea-9bf7-2033a96cf5b2.png)
 
+## Nueva Sección
+Este es un ejemplo de una nueva sección que se ha agregado al archivo README.
 
 
